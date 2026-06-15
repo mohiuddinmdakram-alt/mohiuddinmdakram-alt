@@ -8,9 +8,9 @@ Looking for a **Working Student** role in Data Analytics or BI (20h/week, availa
 ### What I work with
 
 ```
-Python    ██████████████████░░  Pandas · NumPy · SQLAlchemy · scikit-learn
-SQL       ████████████████░░░░  PostgreSQL · MySQL · CTEs · Window Functions
-Power BI  ██████████████░░░░░░  KPI Dashboards · DAX · Data Modeling
+Python     Pandas · NumPy · SQLAlchemy · scikit-learn
+SQL        PostgreSQL · MySQL · CTEs · Window Functions
+Power BI   KPI Dashboards · DAX · Data Modeling
 ```
 
 ---
