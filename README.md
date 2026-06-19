@@ -1,6 +1,6 @@
 ## Hi, I'm Akram 👋
 M.Sc. Data Science student at **Hochschule Fulda**, Germany.  
-Looking for a **Working Student** role in Data Analytics or BI (20h/week, available through Sep 2027).
+
 ---
 ### What I work with
 ```
